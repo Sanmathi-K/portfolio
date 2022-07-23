@@ -38,11 +38,11 @@ html{
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 6px;
-  background: linear-gradient(rgb(239, 135, 216),rgb(224, 134, 242));
+  background: linear-gradient(rgb(224, 134, 242) 70%,white);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(rgb(250, 96, 217),rgb(219, 77, 248));
+  background: linear-gradient(white,rgb(219, 77, 248)70%);
 }
 /*navbar styling*/
 .navbar{
